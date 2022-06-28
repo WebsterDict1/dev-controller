@@ -1,0 +1,4 @@
+variables:
+- team: WebsterDict1
+- admin-user: WebsterDict-admin
+- manager-user: WebsterDict
